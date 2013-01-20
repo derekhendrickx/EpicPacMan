@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Epic Pac-Man", "Epic Pac-Man\Epic Pac-Man.vcxproj", "{ED020CAD-3F71-44D0-B852-839B800120D5}"
+EndProject
+Global
+	GlobalSection(MercurialSourceControlSolutionProperties) = preSolution
+		SolutionIsControlled = True
+		SolutionBindings = <Solution Location In Database>
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED020CAD-3F71-44D0-B852-839B800120D5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{ED020CAD-3F71-44D0-B852-839B800120D5}.Debug|Win32.Build.0 = Debug|Win32
+		{ED020CAD-3F71-44D0-B852-839B800120D5}.Release|Win32.ActiveCfg = Release|Win32
+		{ED020CAD-3F71-44D0-B852-839B800120D5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

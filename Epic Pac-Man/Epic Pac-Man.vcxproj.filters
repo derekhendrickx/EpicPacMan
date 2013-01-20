@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Fichiers sources">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Fichiers de ressources">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Utils">
+      <UniqueIdentifier>{ac207046-80fa-4034-8df7-59033a291e7a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Controller">
+      <UniqueIdentifier>{d942c2c2-cf2a-4682-b199-b9e62305d4f3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\View">
+      <UniqueIdentifier>{e632381e-31b7-4e55-a0ef-e59923ef1a6f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\View\UI">
+      <UniqueIdentifier>{1cb85b9b-a6cb-498f-8537-cb010dbea497}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\View\UI\Bouton">
+      <UniqueIdentifier>{aa76f29e-8b94-40fa-a819-43d778c69cc4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Model">
+      <UniqueIdentifier>{6bf584c4-ba0c-495e-b71a-8e03cc25369a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Model\Fantome">
+      <UniqueIdentifier>{4a6d81f1-ccb9-4b16-be09-f70d52a783c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Model\Labyrinthe">
+      <UniqueIdentifier>{db8eef74-e5cd-477c-a895-85f53f072b47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Model\PacMan">
+      <UniqueIdentifier>{6f614e07-7e96-4d11-b0a3-8209d84f8c99}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\View\Dessin">
+      <UniqueIdentifier>{d35d1228-b8ea-4b50-842d-b8631abcacda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\View">
+      <UniqueIdentifier>{6d6e00a3-0853-4d17-a44a-d41302ee9946}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\View\UI">
+      <UniqueIdentifier>{8f8b3965-e2e0-41dd-9902-f33eb3da014a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\View\UI\Bouton">
+      <UniqueIdentifier>{5596c31f-4b8d-4b6c-af4f-59ac1e31f5cc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\View\Dessin">
+      <UniqueIdentifier>{a08fdbcc-fd29-4b9a-8234-d39e6a656565}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Controller">
+      <UniqueIdentifier>{52286826-1060-4207-8324-b1004ca1ebfe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Model">
+      <UniqueIdentifier>{df7559e5-a148-4d76-87de-f6afe547a5b5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Main">
+      <UniqueIdentifier>{e25b1db0-9d32-4869-95b2-bb364d92d4e7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Model\Fantome">
+      <UniqueIdentifier>{d540725c-2bb4-4939-9f49-c128c694ab35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Model\PacMan">
+      <UniqueIdentifier>{9c303938-07fa-4f38-b281-aaafd8de482d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Model\Labyrinthe">
+      <UniqueIdentifier>{60593213-36c4-4d95-bf46-d65ceae14101}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\View\Dessin\Mur">
+      <UniqueIdentifier>{1c54df00-8c66-4405-bf0d-682818e606f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\View\Dessin\Fantome">
+      <UniqueIdentifier>{88a241c7-88e9-4df7-8628-5b5c0be2e1ae}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\View\Dessin\PacMan">
+      <UniqueIdentifier>{4972393a-43ac-4447-82fa-846810636dda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\View\Dessin\Pastille">
+      <UniqueIdentifier>{3544a45c-e82a-46fd-b557-93c4d7dadf9c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\View\Dessin\Fantome">
+      <UniqueIdentifier>{1da00f04-0a64-4ba0-8bec-d66829321918}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\View\Dessin\Pastille">
+      <UniqueIdentifier>{0f0f846d-710b-4337-b315-fdfda73e457b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\View\Dessin\Mur">
+      <UniqueIdentifier>{1992aec2-8028-4dab-a192-620d2cba3919}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\View\Dessin\PacMan">
+      <UniqueIdentifier>{5b73ff27-e524-4c26-90fd-ab1b844fd87c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Model\Camera">
+      <UniqueIdentifier>{7348133b-97a2-4b18-b0b9-57dd566db789}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers d%27en-tête\Model\Camera">
+      <UniqueIdentifier>{39b49b84-e806-4bc0-b077-801fc697456d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Fichiers sources\Utils">
+      <UniqueIdentifier>{583292a8-adce-49b3-860f-4b5369370d20}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MyGlut.h">
+      <Filter>Fichiers d%27en-tête</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>Fichiers d%27en-tête\View\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Texte.h">
+      <Filter>Fichiers d%27en-tête\View\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Bouton.h">
+      <Filter>Fichiers d%27en-tête\View\UI\Bouton</Filter>
+    </ClInclude>
+    <ClInclude Include="Fleche.h">
+      <Filter>Fichiers d%27en-tête\View\UI\Bouton</Filter>
+    </ClInclude>
+    <ClInclude Include="View.h">
+      <Filter>Fichiers d%27en-tête\View</Filter>
+    </ClInclude>
+    <ClInclude Include="ViewContext.h">
+      <Filter>Fichiers d%27en-tête\View</Filter>
+    </ClInclude>
+    <ClInclude Include="View2D.h">
+      <Filter>Fichiers d%27en-tête\View</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>Fichiers d%27en-tête\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="View3D.h">
+      <Filter>Fichiers d%27en-tête\View</Filter>
+    </ClInclude>
+    <ClInclude Include="View3DPerspective.h">
+      <Filter>Fichiers d%27en-tête\View</Filter>
+    </ClInclude>
+    <ClInclude Include="Controller.h">
+      <Filter>Fichiers d%27en-tête\Controller</Filter>
+    </ClInclude>
+    <ClInclude Include="Model.h">
+      <Filter>Fichiers d%27en-tête\Model</Filter>
+    </ClInclude>
+    <ClInclude Include="Mur.h">
+      <Filter>Fichiers d%27en-tête\View\Dessin\Mur</Filter>
+    </ClInclude>
+    <ClInclude Include="Pastille.h">
+      <Filter>Fichiers d%27en-tête\View\Dessin\Pastille</Filter>
+    </ClInclude>
+    <ClInclude Include="PacMan.h">
+      <Filter>Fichiers d%27en-tête\View\Dessin\PacMan</Filter>
+    </ClInclude>
+    <ClInclude Include="Fantome.h">
+      <Filter>Fichiers d%27en-tête\View\Dessin\Fantome</Filter>
+    </ClInclude>
+    <ClInclude Include="FantomeModel.h">
+      <Filter>Fichiers d%27en-tête\Model\Fantome</Filter>
+    </ClInclude>
+    <ClInclude Include="Labyrinthe.h">
+      <Filter>Fichiers d%27en-tête\Model\Labyrinthe</Filter>
+    </ClInclude>
+    <ClInclude Include="PacManModel.h">
+      <Filter>Fichiers d%27en-tête\Model\PacMan</Filter>
+    </ClInclude>
+    <ClInclude Include="Dessin.h">
+      <Filter>Fichiers d%27en-tête\View\Dessin</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Fichiers d%27en-tête\Model\Camera</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Fleche.cpp">
+      <Filter>Fichiers sources\View\UI\Bouton</Filter>
+    </ClCompile>
+    <ClCompile Include="Bouton.cpp">
+      <Filter>Fichiers sources\View\UI\Bouton</Filter>
+    </ClCompile>
+    <ClCompile Include="Texte.cpp">
+      <Filter>Fichiers sources\View\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>Fichiers sources\View\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="View2D.cpp">
+      <Filter>Fichiers sources\View</Filter>
+    </ClCompile>
+    <ClCompile Include="ViewContext.cpp">
+      <Filter>Fichiers sources\View</Filter>
+    </ClCompile>
+    <ClCompile Include="View3D.cpp">
+      <Filter>Fichiers sources\View</Filter>
+    </ClCompile>
+    <ClCompile Include="View3DPerspective.cpp">
+      <Filter>Fichiers sources\View</Filter>
+    </ClCompile>
+    <ClCompile Include="Mur.cpp">
+      <Filter>Fichiers sources\View\Dessin\Mur</Filter>
+    </ClCompile>
+    <ClCompile Include="Pastille.cpp">
+      <Filter>Fichiers sources\View\Dessin\Pastille</Filter>
+    </ClCompile>
+    <ClCompile Include="Fantome.cpp">
+      <Filter>Fichiers sources\View\Dessin\Fantome</Filter>
+    </ClCompile>
+    <ClCompile Include="PacMan.cpp">
+      <Filter>Fichiers sources\View\Dessin\PacMan</Filter>
+    </ClCompile>
+    <ClCompile Include="Controller.cpp">
+      <Filter>Fichiers sources\Controller</Filter>
+    </ClCompile>
+    <ClCompile Include="Model.cpp">
+      <Filter>Fichiers sources\Model</Filter>
+    </ClCompile>
+    <ClCompile Include="Dessin.cpp">
+      <Filter>Fichiers sources\View\Dessin</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Fichiers sources\Main</Filter>
+    </ClCompile>
+    <ClCompile Include="FantomeModel.cpp">
+      <Filter>Fichiers sources\Model\Fantome</Filter>
+    </ClCompile>
+    <ClCompile Include="PacManModel.cpp">
+      <Filter>Fichiers sources\Model\PacMan</Filter>
+    </ClCompile>
+    <ClCompile Include="Labyrinthe.cpp">
+      <Filter>Fichiers sources\Model\Labyrinthe</Filter>
+    </ClCompile>
+    <ClCompile Include="Camera.cpp">
+      <Filter>Fichiers sources\Model\Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils.cpp">
+      <Filter>Fichiers sources\Utils</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
