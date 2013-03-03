@@ -1,4 +1,10 @@
-EpicPacMan
-==========
+Epic Pac-Man
+============
+Pac-Man 2D & 3D game for school project at Institut Paul Lambin.
 
-Pac-Man project in 2D &amp; 3D for the C++ and graphics programming course at IPL.
+It was made using old OpenGL 2.1.
+
+Authors
+-------
+* Derek Hendrickx
+* Jimmy DeBontridder
