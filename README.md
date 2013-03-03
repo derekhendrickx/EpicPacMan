@@ -8,3 +8,7 @@ Authors
 -------
 * Derek Hendrickx
 * Jimmy DeBontridder
+
+Thanks to
+---------
+* Florent Castelli for his help on the lightning.
